@@ -1,0 +1,83 @@
+vendor,model,cpu_vendor,cpu,os,kernel,node_version,jobs,time
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.7,v20.3.0,14,28:44
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.7,v20.3.0,8,31:04
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.7,v20.3.0,10,30:08
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.7,v20.3.0,12,29:05
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.6,v20.3.0,14,29:06
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.6,v20.3.0,14,29:07
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.6,v20.3.0,14,29:35
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.3.6,v20.3.0,16,29:12
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Fedora 38,6.2.13,v20.3.0,15,26:44
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 5 PRO 4650U,Rocky Linux 9.2,5.14.0,v20.3.0,14,29:15
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,Rocky Linux 9.2,5.14.0,v20.3.0,18,25:07
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,10,26:23
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,11,26:06
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,12,25:53
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,13,25:20
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,14,25:20
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,15,25:07
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,16,24:07
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,16,24:06
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,17,24:32
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,18,24:11
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,18,24:08
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,19,24:14
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,20,24:46
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,21,24:16
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v20.3.0,22,24:32
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.6,v19.9.0,18,21:50
+Lenovo,Thinkpad T14s Gen 1,AMD,Ryzen 7 PRO 4750U,PopOS 22.04,6.2.0,v19.7.0,18,21:58
+Lenovo,Thinkpad T480,Intel,i5-8250U,Rocky Linux 9.2,5.14.0,v20.3.0,10,47:16
+Lenovo,Thinkpad T480,Intel,i5-8250U,Fedora 38,6.3.7,v20.3.0,10,44:04
+Lenovo,Thinkpad T480,Intel,i5-8250U,Fedora 38,6.3.6,v20.3.0,10,44:01
+Lenovo,Thinkpad T480,Intel,i5-8250U,Fedora 38,6.3.6,v20.3.0,10,44:03
+Lenovo,Thinkpad T480,Intel,i5-8350U,Ubuntu 22.04,5.19.0,v20.3.0,10,44:35
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,11,32:10
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,12,29:32
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,13,27:55
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,14,27:03
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,15,27:58
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,16,27:35
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,17,30:19
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.7,v20.3.0,18,32:36
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.3.4,v20.2.0,18,32:53
+Lenovo,Thinkpad X1 Carbon Gen 10,Intel,i5-1240P,Fedora 38,6.2.12,v19.9.0,18,30:15
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,10,18:06
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,11,17:44
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,12,17:20
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,13,17:01
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,14,16:42
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,15,16:27
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,16,16:07
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,17,16:13
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,18,16:11
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.7,v20.3.0,18,16:13
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.3.5,v20.2.0,18,16:26
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.2.11,v19.9.0,18,14:19
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.2.12,v19.9.0,18,15:22
+Lenovo,Thinkpad Z16 Gen 1,AMD,Ryzen 7 PRO 6850H,Fedora 38,6.2.6,v19.8.1,18,15:23
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,9,07:43
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,10,07:32
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,10,07:33
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,11,07:30
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,11,07:30
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,12,07:27
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,12,07:29
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,13,07:29
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,14,07:29
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,15,07:32
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,16,07:32
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,17,07:37
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,18,07:36
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,20,07:39
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,22,07:40
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,24,07:41
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v20.3.0,26,07:46
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v19.5.0,24,07:15
+Apple,Macbook Pro 16-inch 2021,Apple,M1 Pro,Ventura 13.4,22.5.0,v18.6.0,24,07:25
+HP,Elitebook 840 G3,Intel,i7-6600U,Fedora 38,6.3.7,v20.3.0,4,77:18
+HP,Elitebook 840 G3,Intel,i7-6600U,Fedora 38,6.3.7,v20.3.0,6,78:13
+HP,Elitebook 840 G3,Intel,i7-6600U,Fedora 38,6.3.7,v20.3.0,8,78:48
+HP,Elitebook 840 G1,Intel,i5-4300U,Fedora 38,6.3.7,v20.3.0,4,93:57
+HP,Elitebook 840 G1,Intel,i5-4300U,Fedora 38,6.3.7,v20.3.0,6,95:10
+HP,Elitebook 840 G1,Intel,i5-4300U,Fedora 38,6.3.7,v20.3.0,8,96:10
